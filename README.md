@@ -1,0 +1,2 @@
+# JSKatas
+Javascript Kata Solutions
